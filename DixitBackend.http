@@ -1,0 +1,6 @@
+@DixitBackend_HostAddress = http://localhost:5049
+
+GET {{DixitBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
